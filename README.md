@@ -4,7 +4,7 @@
 
 ### Computer Science Engineering Student @ IIITDM Kancheepuram
 
-Building across **software development, systems, and computer architecture** — one project at a time.
+Interested in **software development, backend engineering, and building useful applications**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sripadh16-181717?style=for-the-badge&logo=github)](https://github.com/Sripadh16)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sripadh%20Kontham-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sripadh-kontham)
@@ -17,11 +17,11 @@ Building across **software development, systems, and computer architecture** —
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing a **Dual Degree (B.Tech + M.Tech) in Computer Science Engineering** at IIITDM Kancheepuram.
-- 🧠 Interested in **data structures and algorithms, backend development, operating systems, and computer architecture**.
-- 🛠️ I enjoy building full-stack applications and exploring lower-level systems through practical projects.
-- 🔐 Worked on privacy-focused applications and completed the **Google Cybersecurity Professional Certificate**.
+- 🧠 Interested in **data structures and algorithms, backend development, and software engineering**.
+- 🛠️ I enjoy building full-stack applications and learning how to design reliable, practical software.
+- 🔐 Completed the **Google Cybersecurity Professional Certificate**.
 - 📜 Co-inventor on a published Indian patent application for a **Privacy-Preserving Attendance System with Indoor Geofencing Layers**.
-- 🌱 Currently strengthening my DSA skills and exploring cloud fundamentals and shell scripting.
+- 🌱 Currently strengthening my DSA skills and learning cloud fundamentals.
 
 ## 🧰 Tech Stack
 
@@ -44,7 +44,7 @@ Building across **software development, systems, and computer architecture** —
 ![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
 
-### Databases, Cloud & Tools
+### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -54,75 +54,25 @@ Building across **software development, systems, and computer architecture** —
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square)
 
-### Core CS & Systems
-- **CS fundamentals:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks, Computer Architecture, Probability & Statistics, Compiler Design
-- **Systems:** xv6, C, x86 Assembly, concurrency and synchronization, QEMU testing
-- **Architecture:** cache hierarchies, DRAM timing, scheduling, FPGA prototyping
-- **Security:** cybersecurity fundamentals, network security, Linux, security risk management
-
----
-
-## 🚀 Featured Projects
-
-### 1. MemCentric-Sim — Memory-Centric Computing Simulator
-**Python · FastAPI · Computer Architecture**
-
-- Built a microarchitectural simulator modeling a host CPU, three-level set-associative caches (L1–L3, LRU), and multi-bank DRAM row-buffer timing.
-- Implemented static and dynamic scheduling between the host CPU and near-memory units using cache residency and bus contention.
-- Evaluated compute-dense and memory-bound workloads, reporting **4.09×–26.35× speedup** and up to **11.58× energy savings**, with under 0.5% scheduling overhead.
-
-### 2. xv6 Kernel Logging System
-**C · x86 Assembly · xv6 · QEMU · Concurrency**
-
-- Developed a concurrent kernel logging subsystem for 32-bit x86 xv6 using bounded per-CPU ring buffers.
-- Implemented synchronization with global and per-CPU locks, plus lock-free atomic CAS sequence counters and hierarchical lock ordering.
-- Built a virtual logging character device and system calls with independent per-file read cursors; tested across 1–8 virtual cores using QEMU stress benchmarks and Python test suites.
-
-### 3. MediLink — Privacy-First Health Record Vault
-**Next.js · TypeScript · Supabase · PostgreSQL · Gemini API · Tailwind CSS**
-
-- Built a full-stack application for digitizing and organizing medical records into an interactive chronological timeline.
-- Developed a document intake pipeline using Gemini Vision and Gemini 2.5 Flash to extract structured clinical data with evidence verification and side-by-side human review.
-- Protected sensitive records using PostgreSQL Row Level Security (RLS), 256-bit sharing tokens, bcrypt PIN authentication, and emergency QR access.
-
-### 4. Privacy-Preserving Attendance Management System
-**Mobile application · Indoor geofencing · Identity verification · FPGA prototype**
-
-- Contributed to a classroom attendance system combining signal-based geofencing with identity verification.
-- The work is associated with **Indian Patent Application No. 202641053678**, titled *Privacy-Preserving Attendance System with Indoor Geofencing Layers*.
-- Prototype work included the Xilinx PYNQ-Z2 FPGA board; the application has been described as under testing for potential college-wide deployment.
-
-### 5. Digital Rebel (Futura) — Gamified Finance Platform
-**JavaScript · TypeScript · Cloudflare Workers · Supabase · PostgreSQL · Razorpay**
-
-- Contributed to a gamified personal finance and retirement-planning platform featuring savings streaks, virtual currency, and simulated market trading.
-- Implemented contribution tracking, monthly streak logic, virtual-currency transactions, subscription entitlements, and Monte Carlo-based retirement projections.
-
-### 6. Buy Me a Chai
-**Next.js · Node.js · MongoDB · NextAuth · Razorpay**
-
-- Built a full-stack support platform that lets creators receive contributions.
-- Worked with authentication, database-backed user flows, and payment integration.
-
-> Add or update each project's repository link in this section when its public GitHub URL is ready.
+### Core CS
+- **Fundamentals:** Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks, Probability & Statistics, Compiler Design
+- **Security:** Cybersecurity fundamentals, network security, Linux, and security risk management
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- **Google Cybersecurity Professional Certificate** — completed training in cybersecurity fundamentals, network security, Linux, Python, SQL, and security risk management.
+- **Google Cybersecurity Professional Certificate** — training in cybersecurity fundamentals, network security, Linux, Python, SQL, and security risk management.
 - **Second Place — Last Flag Flying**, Samgatha × Vashisht ’25 — on-campus competitive programming contest.
-- **Indian Patent Application No. 202641053678** — *Privacy-Preserving Attendance System with Indoor Geofencing Layers*; published and awaiting examination as stated in the resume.
+- **Indian Patent Application No. 202641053678** — *Privacy-Preserving Attendance System with Indoor Geofencing Layers*; published and awaiting examination as stated in my resume.
 - **Class Representative**, IIITDM Kancheepuram — helped coordinate communication between students and faculty on academic grievances, exams, and course logistics.
 
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms and interview problem-solving
-- Cloud fundamentals with AWS
-- Shell scripting and Linux tooling
-- Backend engineering and systems fundamentals
+- Cloud fundamentals
+- Backend engineering and software design
 
 ## 📊 GitHub Stats
 
@@ -140,8 +90,6 @@ Building across **software development, systems, and computer architecture** —
 - **GitHub:** [@Sripadh16](https://github.com/Sripadh16)
 - **LinkedIn:** [Sripadh Kontham](https://linkedin.com/in/sripadh-kontham)
 - **Email:** [sripadh2006@gmail.com](mailto:sripadh2006@gmail.com)
-
----
 
 <div align="center">
 
