@@ -17,11 +17,9 @@ Interested in **software development, backend engineering, and building useful a
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing a **Dual Degree (B.Tech + M.Tech) in Computer Science Engineering** at IIITDM Kancheepuram.
-- 🧠 Interested in **data structures and algorithms, backend development, and software engineering**.
 - 🛠️ I enjoy building full-stack applications and learning how to design reliable, practical software.
-- 🔐 Completed the **Google Cybersecurity Professional Certificate**.
 - 📜 Co-inventor on a published Indian patent application for a **Privacy-Preserving Attendance System with Indoor Geofencing Layers**.
-- 🌱 Currently strengthening my DSA skills and learning cloud fundamentals.
+- 🌱 Currently strengthening my backend development skills and learning cloud fundamentals.
 
 ## 🧰 Tech Stack
 
@@ -30,7 +28,6 @@ Interested in **software development, backend engineering, and building useful a
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -52,7 +49,6 @@ Interested in **software development, backend engineering, and building useful a
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
 ### Core CS
@@ -62,26 +58,10 @@ Interested in **software development, backend engineering, and building useful a
 ---
 
 ## 🏆 Achievements & Certifications
-
+- **Indian Patent Application No. 202641053678** — *Privacy-Preserving Attendance System with Indoor Geofencing Layers*; published and awaiting examination.
+- **Second Place — Last Flag Flying contest**, Samgatha × Vashisht ’25 — on-campus competitive programming contest.
+- **Third Place — Bits & Bytes Hackathon** — on-campus 24 hour hackathon.
 - **Google Cybersecurity Professional Certificate** — training in cybersecurity fundamentals, network security, Linux, Python, SQL, and security risk management.
-- **Second Place — Last Flag Flying**, Samgatha × Vashisht ’25 — on-campus competitive programming contest.
-- **Indian Patent Application No. 202641053678** — *Privacy-Preserving Attendance System with Indoor Geofencing Layers*; published and awaiting examination as stated in my resume.
-- **Class Representative**, IIITDM Kancheepuram — helped coordinate communication between students and faculty on academic grievances, exams, and course logistics.
-
-## 📚 Currently Learning
-
-- Data Structures & Algorithms and interview problem-solving
-- Cloud fundamentals
-- Backend engineering and software design
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sripadh16&show_icons=true&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sripadh16&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
